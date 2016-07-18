@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 welcome to sample project one and second
+=======
+welcome to sample project one and first
+>>>>>>> 35e9221574013b19fa06d19b5cf914cb67ac1b91
